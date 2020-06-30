@@ -6,7 +6,7 @@
 function: SyntaxHiglighter,code completer(C++ only,of coure you can fork and implment some other languages), find and replace, ANSI and UTF-8 coding format(but has a little bug)
 
 项目需求/Project Requirement：
-[!image](https://github.com/ChowKing161/Fresh-Editor-Qt-based-cross-platform-code-editor-/blob/master/requirement.png?raw=true)
+![project requirement](https://github.com/ChowKing161/Fresh-Editor-Qt-based-cross-platform-code-editor-/blob/master/requirement.png?raw=true)
 
 界面/Interface:
-[!image](https://github.com/ChowKing161/Fresh-Editor-Qt-based-cross-platform-code-editor-/blob/master/interface.png?raw=true)
+![running interface](https://github.com/ChowKing161/Fresh-Editor-Qt-based-cross-platform-code-editor-/blob/master/interface.png?raw=true)
