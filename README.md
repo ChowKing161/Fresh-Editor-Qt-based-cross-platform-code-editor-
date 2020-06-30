@@ -1,4 +1,4 @@
-# Fresh-Editor-Qt-based-cross-platform-code-editor-
+# Fresh-Editor-Qt-based-cross-platform-code-editor
 基于Qt的跨平台代码编辑器
 
 支持Linux和Windows系统
